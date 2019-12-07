@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Raspi_GPIB_Zero_V6)(type KiCad)(uri ${KIPRJMOD}/Footprints)(options "")(descr ""))
+)
