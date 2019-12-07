@@ -8,9 +8,9 @@ Connecting GPIB-capable lab equipment to your PC nowadays is mostly a choice bet
 
 The Raspberry Pi shield was created to solve this problem.
 
-This repository contains the following:
-1, the schematics for the raspberry-pi-zero GPIB shield
-2, a stl file for a 3d-printable mounting bracket
+This repository contains the following:<br>
+1, the schematics for the raspberry-pi-zero GPIB shield (![Link to schematics](https://github.com/elektronomikon/raspi_gpib_shield/raw/master/Documentation/RaspiZero_GPIB_Schematic.pdf)
+2, a stl file for a 3d-printable mounting bracket (![Link to schematics](https://github.com/elektronomikon/raspi_gpib_shield/raw/master/Gehaeuse V3.stl)
 
 This shield is meant to be used with the raspi_gpib_driver (https://github.com/elektronomikon/raspi_gpib_driver)
 
