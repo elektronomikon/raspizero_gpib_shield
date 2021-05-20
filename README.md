@@ -12,7 +12,7 @@ This repository contains the following:<br>
 1, the schematics for the raspberry-pi-zero GPIB shield (![Link to schematics](https://github.com/elektronomikon/raspizero_gpib_shield/raw/master/Documentation/RaspiZero_GPIB_Schematic.pdf))<br>
 2, a stl file for a 3d-printable mounting bracket (![Link to bracket](https://github.com/elektronomikon/raspizero_gpib_shield/raw/master/Gehaeuse%20V3.stl))
 
-This shield is meant to be used with the raspi_gpib_driver (https://github.com/elektronomikon/raspi_gpib_driver)
+This shield is meant to be used with the gpib_bitbang driver from linux-gpib.
 
 ![RasPi_GPIB_Shield Overview](https://github.com/elektronomikon/raspi_gpib_shield/raw/master/Documentation/Overview.png)
 
